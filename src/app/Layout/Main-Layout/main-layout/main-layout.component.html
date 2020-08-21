@@ -1,0 +1,22 @@
+<header>
+  <h2>Header</h2> <button [routerLink]='["/login"]' [routerLinkActive]='["link-active"]' class="btn btn-secondary btn-block">logout</button>
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="#">Option1</a></li>
+      <li><a href="#">Option2</a></li>
+      <li><a href="#">Option3</a></li>
+    </ul>
+  </nav>
+  
+  <article>
+    <h2>Main Layout Render Here...</h2>
+    <router-outlet></router-outlet>
+  </article>
+</section>
+
+<footer>
+  <p>Footer</p>
+</footer>
