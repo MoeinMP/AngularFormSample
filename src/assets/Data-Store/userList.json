@@ -1,9 +1,7 @@
     {
         "userCredentialList":
         [
-    {"username":"moeinmp", "password":"mmp123"},
-    {"username":"vahidmp", "password":"vmp123"},
-    {"username":"Navidmp", "password":"nmp123"},
-    {"username":"Vahabmp", "password":"vhmp123"}
-        ]
+    {"username":"moein", "password":"admin123"},
+    {"username":"behnaz", "password":"admin123"}
+           ]
     }
