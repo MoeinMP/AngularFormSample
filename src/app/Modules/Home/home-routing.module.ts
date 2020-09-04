@@ -12,6 +12,10 @@ component: MainLayoutComponent,
 children:
   [
     {
+      path:'',
+      component:HomePageComponent
+    },
+    {
     path:'home',
     component: HomePageComponent
   }
