@@ -2,6 +2,7 @@
         "userCredentialList":
         [
     {"username":"moein", "password":"admin123"},
-    {"username":"behnaz", "password":"admin123"}
+    {"username":"navid", "password":"admin123"},
+    {"username":"vahid", "password":"admin123"}
            ]
     }
